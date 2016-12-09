@@ -2,18 +2,18 @@
   "name": "hubot-annoying-song",
   "description": "A hubot script that sings annoying songs",
   "version": "0.0.0",
-  "author": "Andrew Lucas <andrewl@resin.io>",
-  "license": "MIT",
+  "author": "Andrew Lucas <sqweelygig@gmail.com>",
+  "license": "Apache-2.0",
 
   "keywords": "hubot, hubot-scripts",
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-annoying-song.git"
+    "url": "git://github.com/sqweelygig/hubot-annoying-song.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-annoying-song/issues"
+    "url": "https://github.com/sqweelygig/hubot-annoying-song/issues"
   },
 
   "dependencies": {
@@ -35,6 +35,7 @@
     "hubot": "2.x",
     "matchdep": "~0.3.0",
     "mocha": "^2.1.0",
+    "resin-lint": "^1.4.0",
     "sinon": "^1.13.0",
     "sinon-chai": "^2.7.0"
   },

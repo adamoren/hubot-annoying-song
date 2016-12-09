@@ -21,8 +21,9 @@ Then add **hubot-annoying-song** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+sing short
+sing
+stop
 ```
 
 ## NPM Module
